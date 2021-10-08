@@ -1,10 +1,9 @@
 ##
 
--👋 Hi, I’m @rocha19
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-👋 Olá, eu sou Marcelo Rocha
+- 👀 No momento estou focando no mundo da tecnologia de maneira geral.
+- 🌱 Estou aprendendo linguagens SQL (MySQL, PostGreSQL, linguagem C, WEB (HTML, CSS, JavaScript e PHP) e também estou me aprofundando na linguagem Python.
+
 
 ##
 
@@ -29,11 +28,12 @@
 </div>
 
 ##
- 
+              
+##
+              
 <div> 
   <a href="https://www.instagram.com/roch6" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="" target="_blank"><img src=""></a>
-  <a href = "mailto:rochaarqueologia@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+ 	<a href = "mailto:rochaarqueologia@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/marcelo-rocha-a40518220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
