@@ -2,7 +2,7 @@
 
 -👋 Olá, eu sou Marcelo Rocha
 - 👀 No momento estou focando no mundo da tecnologia de maneira geral.
-- 🌱 Estou aprendendo linguagens SQL (MySQL, PostgreSQL, linguagem C, WEB (HTML, CSS, JavaScript e PHP) e também estou me aprofundando na linguagem Python.
+- 🌱 Estou aprendendo linguagens SQL (MySQL, PostgreSQL), linguagem C, WEB (HTML, CSS, JavaScript e PHP) e também estou me aprofundando na linguagem Python.
 
 
 ##
