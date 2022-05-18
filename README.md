@@ -1,6 +1,6 @@
 ##
 
--👋 Olá, eu sou Marcelo Rocha, tenho experiência no backend com nodejs e typescrypt.
+-👋 Olá, eu sou Marcelo Rocha, tenho experiência em backend com nodejs e typescrypt.
 
 ##
 
