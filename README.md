@@ -8,9 +8,9 @@
 -->
 <div align="center" style="display: inline_block">
   <br>
-  <code><img width="32" height="32" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/></code>
+  <code><img width="32" height="32" src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux"/></code>
   <code><img width="32" height="32" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/32/FFFFFF/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png" alt="Rust"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Typescript"/></code>
+  <code><img width="32" height="32" src="https://img.icons8.com/color/32/c-plus-plus-logo.png" alt="CPP"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
