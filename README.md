@@ -1,11 +1,11 @@
 ##
-
+<!--
 <div align="center">
   <a href="https://github.com/rocha19">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rocha19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocha19&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+-->
 <div align="center" style="display: inline_block"><br>
 <code><img width="32" height="32" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/32/FFFFFF/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png" alt="Rust"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Typescript"/></code>
